@@ -1,0 +1,20 @@
+{
+  "name": "Stoner Cats",
+  "slug": "stonercats",
+  "saveName": "stonercats",
+  "assetContractAddress": "0xd4d871419714b778ebec2e22c7c53572b573706e",
+  "floorAddress": "0x66b41f434fdba51f1fe1e55c8c37879fdf50f2b3",
+  "maxOffer": 0.31,
+  "minOffer": 0.30,
+  "bidIncrement": 0.01,
+  "minProfit": 0.003,
+  "offerHours": 24,
+  "walletAddress": "0x2309e6204f3246b0d74628a47a8466a694cb8ecc",
+  "totalAssets": 10419,
+  "assetCrawl": {
+      "current": 7000,
+      "window": 25
+  },
+  "ownedAssets": [],
+  "savedData": []
+}

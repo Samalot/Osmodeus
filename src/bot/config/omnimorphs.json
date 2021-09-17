@@ -1,0 +1,20 @@
+{
+  "name": "Omnimorphs",
+  "slug": "omnimorphs",
+  "saveName": "omnimorphs",
+  "assetContractAddress": "0xb5f3dee204ca76e913bb3129ba0312b9f0f31d82",
+  "floorAddress": "0xb0e984d4bf1830dcb6c8c4e0f81d0869d2f037b1",
+  "maxOffer": 0.25,
+  "minOffer": 0.25,
+  "bidIncrement": 0.01,
+  "minProfit": 0.000,
+  "offerHours": 3,
+  "walletAddress": "0x2309e6204f3246b0d74628a47a8466a694cb8ecc",
+  "totalAssets": 3100,
+  "assetCrawl": {
+      "current": 200,
+      "window": 25
+  },
+  "ownedAssets": [],
+  "savedData": []
+}
